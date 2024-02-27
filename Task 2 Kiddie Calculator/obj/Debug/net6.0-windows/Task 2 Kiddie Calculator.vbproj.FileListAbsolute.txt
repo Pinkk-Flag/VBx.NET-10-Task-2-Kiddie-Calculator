@@ -1,0 +1,36 @@
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.vbproj.AssemblyReference.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.exe
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.deps.json
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.runtimeconfig.json
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.pdb
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task_3_Kiddie_Calculator.Form1.resources
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task_3_Kiddie_Calculator.Resources.resources
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.vbproj.GenerateResource.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.AssemblyInfoInputs.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.AssemblyInfo.vb
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\refint\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.pdb
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.genruntimeconfig.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 3 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\ref\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.exe
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.deps.json
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.runtimeconfig.json
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\bin\Debug\net6.0-windows\Task 2 Kiddie Calculator.pdb
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.vbproj.AssemblyReference.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task_3_Kiddie_Calculator.Form1.resources
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task_3_Kiddie_Calculator.Resources.resources
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.vbproj.GenerateResource.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.AssemblyInfoInputs.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.AssemblyInfo.vb
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\refint\Task 2 Kiddie Calculator.dll
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.pdb
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\Task 2 Kiddie Calculator.genruntimeconfig.cache
+C:\Users\GER0020\Downloads\Visual Studio\Visual Basic\Task 2 Kiddie Calculator - Dario Gerald\Task 3 Kiddie Calculator\obj\Debug\net6.0-windows\ref\Task 2 Kiddie Calculator.dll
